@@ -6,3 +6,9 @@
 - [Columbia University](https://www.columbia.edu/)
 - [University at Buffalo, The State University of New York](https://www.buffalo.edu/)
 
+## Research Interests
+
+- ESG investing and corporate sustainability strategies
+- Climate risk assessment and adaptation planning
+- Sustainable infrastructure and energy transitions
+- Data-driven analysis of climate variability and agricultural productivity
